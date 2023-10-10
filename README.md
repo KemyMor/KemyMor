@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm Ekemini Maurice.
+I am an Oracle flexcube specialist.
+I am also currently learning Data Analysis.👋
+
+
+
 
 <!--
 **KemyMor/KemyMor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
