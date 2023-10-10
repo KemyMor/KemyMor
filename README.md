@@ -1,6 +1,6 @@
 # Hi, I'm Ekemini Maurice.
 I am an Oracle flexcube specialist.
-I am also currently learning Data Analysis.👋
+I am also Data Analyst in training.👋
 
 
 
